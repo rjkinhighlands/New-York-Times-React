@@ -4,8 +4,6 @@ A NodeJS, MongoDB, Express, and ReactJS application where users can query, displ
 
 Click on the headlines to be re-directed to the full New York Times articles.
 
-Functionality
-
 On the backend, the app uses express to serve routes and mongoose to interact with a MongoDB database.
 
 On the frontend, the app uses ReactJS for rendering components, axios for internal/external API calls, and bootstrap as a styling framework.
